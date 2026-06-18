@@ -1,0 +1,932 @@
+id_cliente;nome_cliente;regiao;estado;cidade;segmento;data_cadastro
+1;Italo Fonseca;Centro-Oeste;Mato Grosso;Cuiabá;Pequena Empresa;28/10/2023
+2;Leonor Oliveira;Norte;Pará;Ananindeua;Pessoa Física;27/02/2020
+3;Tamara Cuoco;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;29/05/2019
+4;Kleber Benavente;Centro-Oeste;Mato Grosso;Tangará da Serra;Média Empresa;23/04/2021
+5;Lautaro Nadal;Norte;Amazonas;Manacapuru;Pessoa Física;29/03/2019
+6;Hugo Rivilla;Norte;Pará;Ananindeua;Pessoa Física;08/07/2019
+7;Libânio Franco;Sul;Paraná;Curitiba;Pessoa Física;15/10/2019
+8;Valter Valença;Nordeste;Bahia;Juazeiro;Pessoa Física;01/11/2023
+9;Victor Hugo;Sudeste;São Paulo;Santos;Pequena Empresa;08/09/2022
+10;Quitéria Valença;Centro-Oeste;Goiás;Goiânia;Pessoa Física;10/02/2023
+11;Wesley Kubitschek;Nordeste;Ceará;Maracanaú;Pessoa Física;10/05/2020
+12;Doralice Cuoco;Nordeste;Pernambuco;Caruaru;Pessoa Física;30/04/2020
+13;Carlito Barroso;Norte;Amazonas;Parintins;Pessoa Física;26/09/2020
+14;Paulo Borba;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;21/08/2020
+15;Mauro Rosa;Norte;Pará;Castanhal;Pessoa Física;25/02/2020
+16;Osvaldo Carlos;Sudeste;Minas Gerais;Contagem;Pessoa Física;17/09/2023
+17;Arlindo Salgado;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;10/03/2022
+18;Elaine Meireles;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;18/12/2023
+19;Odila Duarte;Sul;Paraná;Ponta Grossa;Pessoa Física;25/02/2019
+20;Janice Gil;Sul;Paraná;Maringá;Pessoa Física;20/03/2022
+21;Valéria Solís;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;07/02/2019
+22;Evelyn Franco;Nordeste;Pernambuco;Petrolina;Pequena Empresa;10/02/2021
+23;Savério Morais;Nordeste;Pernambuco;Petrolina;Pequena Empresa;20/03/2019
+24;Rodrigo Teixeira;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;26/12/2022
+25;Edivaldo Salles;Sul;Paraná;Londrina;Pessoa Física;06/06/2021
+26;Izabel Oliveira;Sudeste;São Paulo;Campinas;Pequena Empresa;17/12/2021
+27;Messias Lacerda;Centro-Oeste;Mato Grosso;Várzea Grande;Pessoa Física;19/11/2020
+28;Berto Sá;Norte;Amazonas;Manacapuru;Pessoa Física;29/09/2021
+29;Matheus Vieira;Sudeste;São Paulo;Sorocaba;Pequena Empresa;08/01/2020
+30;Sergio Malta;Norte;Pará;Santarém;Pequena Empresa;01/07/2020
+31;Ricardo Noé;Norte;Amazonas;Parintins;Pessoa Física;22/03/2020
+32;Victor Hugo;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;28/11/2020
+33;Geraldo Falcones;Sul;Paraná;Curitiba;Pequena Empresa;28/10/2021
+34;Gonzalo Pires;Centro-Oeste;Goiás;Luziânia;Pessoa Física;01/01/2022
+35;Elina Jobim;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;11/11/2022
+36;Idalina Gil;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;22/07/2019
+37;Castor Bocaiuva;Norte;Amazonas;Manaus;Pessoa Física;22/03/2019
+38;Kelman Meireles;Sul;Paraná;Ponta Grossa;Média Empresa;26/09/2023
+39;Mel Jobim;Norte;Pará;Belém;Pessoa Física;05/04/2020
+40;Abner Cavalcante;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;25/01/2019
+41;Alana Vasconcelos;Sul;Paraná;Curitiba;Pessoa Física;17/07/2021
+42;Berenice Soriano;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;28/12/2022
+43;Sinval Duarte;Norte;Amazonas;Parintins;Pessoa Física;11/06/2021
+44;Teodoro Sampaio;Sudeste;São Paulo;São Paulo;Pequena Empresa;25/10/2020
+45;Arnaldo Bolaño;Sudeste;Rio de Janeiro;Rio de Janeiro;Pequena Empresa;08/10/2023
+46;Samanta Fonseca;Norte;Amazonas;Manacapuru;Pequena Empresa;24/02/2019
+47;Arthur Monteiro;Sudeste;Rio de Janeiro;Rio de Janeiro;Pequena Empresa;10/08/2019
+48;Estefânia Dumont;Sudeste;São Paulo;São José dos Campos;Pessoa Física;09/06/2019
+49;Angelita Aurélio;Sul;Paraná;Curitiba;Pessoa Física;06/02/2022
+50;Kamila Kubitschek;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;02/02/2021
+51;Pedro Melo;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;09/11/2022
+52;Gofredo Fonseca;Norte;Amazonas;Itacoatiara;Pequena Empresa;01/01/2023
+53;Tatiana Kubitschek;Sudeste;São Paulo;Campinas;Pessoa Física;02/02/2020
+54;Castelar Cruz;Nordeste;Pernambuco;Olinda;Pessoa Física;27/12/2021
+55;Enoli Meireles;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;15/10/2021
+56;Janete Cuoco;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;26/08/2020
+57;Bernadete Avancini;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;18/09/2021
+58;Samanta Fonseca;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;03/11/2022
+59;Carolina Kubitschek;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;28/05/2020
+60;Carolina Kubitschek;Norte;Pará;Castanhal;Pequena Empresa;06/05/2021
+61;Bispo Michaelichen;Norte;Amazonas;Coari;Pessoa Física;08/12/2021
+62;Audalio Ceni;Nordeste;Bahia;Camaçari;Pequena Empresa;14/02/2023
+63;Diego Kubitschek;Nordeste;Pernambuco;Olinda;Pessoa Física;18/08/2019
+64;Monteiro Lobato;Norte;Pará;Belém;Pessoa Física;12/09/2019
+65;Dulcineia Rosa;Norte;Amazonas;Itacoatiara;Pessoa Física;25/06/2021
+66;Bráulio Vasconcellos;Nordeste;Pernambuco;Jaboatão dos Guararapes;Média Empresa;15/12/2023
+67;Elias Castro;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;19/10/2019
+68;Amélia Caminha;Sudeste;Minas Gerais;Betim;Pessoa Física;23/12/2022
+69;Itana Kubitschek;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;07/01/2023
+70;Genevieve Fonseca;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;21/03/2022
+71;Amílcar Dornas;Centro-Oeste;Goiás;Anápolis;Pessoa Física;14/03/2020
+72;Marcus Duarte;Sul;Paraná;Londrina;Pequena Empresa;07/07/2019
+73;Jacy Lobato;Sul;Rio Grande do Sul;Gravataí;Pequena Empresa;23/03/2019
+74;Henri Morais;Norte;Amazonas;Manaus;Pessoa Física;06/04/2021
+75;Celino Valença;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;18/06/2023
+76;Fidélis Gil;Sul;Paraná;Curitiba;Pessoa Física;28/08/2021
+77;Eliza Oliveira;Norte;Amazonas;Parintins;Pessoa Física;11/11/2021
+78;Manuel Bandeira;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;11/11/2019
+79;Maicon Bocaiuva;Sul;Paraná;Curitiba;Pequena Empresa;08/12/2023
+80;Márcio Fonseca;Sudeste;Rio de Janeiro;Niterói;Pequena Empresa;08/06/2022
+81;Lair Franco;Norte;Pará;Santarém;Pequena Empresa;03/02/2023
+82;George Borborema;Norte;Pará;Ananindeua;Pessoa Física;26/08/2022
+83;Vinícius Cardoso;Norte;Pará;Santarém;Pessoa Física;27/05/2019
+84;Marina Guimarães;Norte;Pará;Ananindeua;Pessoa Física;04/08/2019
+85;Fernando Baldelli;Nordeste;Ceará;Maracanaú;Pessoa Física;09/10/2023
+86;Vinícius Rosa;Nordeste;Bahia;Salvador;Pessoa Física;26/07/2020
+87;Tércio Cruz;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;16/01/2021
+88;Ariosto Leme;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;17/01/2021
+89;Lucca Veríssimo;Sudeste;São Paulo;São Paulo;Pessoa Física;18/09/2019
+90;Lauro Bocaiuva;Sul;Paraná;Maringá;Pessoa Física;29/12/2021
+91;Elisângela Valença;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;29/09/2023
+92;Luciana Cruz;Norte;Pará;Castanhal;Pequena Empresa;05/12/2022
+93;Marco Aurélio;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;01/12/2021
+94;Arthur Monteiro;Sudeste;Minas Gerais;Belo Horizonte;Pequena Empresa;14/10/2020
+95;Cassiano Lobato;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;08/06/2020
+96;Dante Pascoal;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;19/04/2020
+97;Mabel Franco;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;04/07/2021
+98;Diogo Morais;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;19/08/2020
+99;Washington Caymmi;Sudeste;Rio de Janeiro;Duque de Caxias;Pequena Empresa;04/08/2020
+100;Tércio Cruz;Nordeste;Ceará;Fortaleza;Pequena Empresa;04/09/2023
+101;Beatriz Luna;Centro-Oeste;Mato Grosso;Rondonópolis;Média Empresa;11/05/2023
+102;Vânia Oliveira;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;24/07/2021
+103;Suelen Guimarães;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;24/11/2019
+104;Jussara Carlos;Sul;Paraná;Maringá;Pequena Empresa;07/08/2023
+105;Rodolfo Carlos;Norte;Amazonas;Manaus;Média Empresa;06/08/2019
+106;Pacífica Lobato;Norte;Amazonas;Parintins;Pessoa Física;03/05/2021
+107;Kelman Meireles;Sudeste;São Paulo;Ribeirão Preto;Pequena Empresa;19/03/2023
+108;Mira Franco;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;08/01/2023
+109;Sebastián Menchaca;Norte;Pará;Marabá;Média Empresa;31/05/2022
+110;Ivor Barroso;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;12/09/2020
+111;Dário Melo;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;16/05/2022
+112;Angélica Bandeira;Norte;Pará;Santarém;Pessoa Física;22/11/2022
+113;Savério Guedes;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;21/07/2020
+114;Ronaldo Rosa;Norte;Amazonas;Itacoatiara;Pessoa Física;21/03/2022
+115;Ângelo Quintana;Nordeste;Ceará;Caucaia;Pessoa Física;09/03/2020
+116;Fulvio Abravanel;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;16/01/2021
+117;Kleber Aguiar;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;21/04/2020
+118;Rosemary Meireles;Norte;Amazonas;Manaus;Pequena Empresa;20/03/2022
+119;Thiago Gomes;Nordeste;Pernambuco;Petrolina;Pessoa Física;16/04/2021
+120;Heitor Prieto;Nordeste;Ceará;Fortaleza;Pequena Empresa;11/12/2019
+121;Bonifácio Maraísa;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;27/01/2021
+122;Amélia Caminha;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;30/05/2023
+123;Isoldino Carlos;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;23/02/2023
+124;Emanuel Teles;Norte;Amazonas;Manacapuru;Pequena Empresa;24/10/2021
+125;Giancarlo Oliveira;Sul;Rio Grande do Sul;Gravataí;Pequena Empresa;12/06/2022
+126;Washington Luís;Nordeste;Bahia;Feira de Santana;Pessoa Física;23/03/2023
+127;Robson Oliveira;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;15/12/2022
+128;Hortênsia Bocaiuva;Sudeste;São Paulo;São Paulo;Pessoa Física;18/07/2019
+129;Lucélia Rosa;Centro-Oeste;Mato Grosso;Sinop;Pequena Empresa;01/08/2023
+130;Alceu Valença;Norte;Amazonas;Manaus;Pessoa Física;14/01/2019
+131;George Borborema;Centro-Oeste;Mato Grosso;Cuiabá;Pequena Empresa;06/06/2021
+132;Tadeu Melo;Centro-Oeste;Goiás;Rio Verde;Média Empresa;28/03/2023
+133;Iara Valença;Sudeste;São Paulo;Campinas;Pequena Empresa;21/04/2019
+134;Michele Oliveira;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;01/03/2019
+135;Armando Nassar;Sudeste;São Paulo;São Paulo;Pessoa Física;03/08/2021
+136;Marco Aurélio;Sudeste;Minas Gerais;Belo Horizonte;Pessoa Física;01/02/2019
+137;Ileana Barbosa;Sul;Paraná;Londrina;Pessoa Física;05/04/2023
+138;Aluísio Veloso;Norte;Amazonas;Itacoatiara;Pessoa Física;16/11/2022
+139;Lucas Almeida;Nordeste;Bahia;Feira de Santana;Pequena Empresa;27/10/2023
+140;Célia Luís;Norte;Pará;Castanhal;Média Empresa;20/12/2019
+141;Inara Barroso;Sul;Paraná;Londrina;Pessoa Física;26/09/2021
+142;Bernardino Camargo;Sul;Paraná;Londrina;Pessoa Física;29/01/2019
+143;Aurélio Laranjeira;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;10/07/2019
+144;Gustavo Luís;Nordeste;Pernambuco;Olinda;Pessoa Física;28/10/2019
+145;Clovis Rosa;Sul;Paraná;Curitiba;Média Empresa;08/04/2019
+146;Augusto Pompeu;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;25/12/2023
+147;Mateus Rivera;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;28/10/2019
+148;Cibele Kubitschek;Sudeste;Minas Gerais;Betim;Pequena Empresa;27/06/2020
+149;Eder Jara;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Média Empresa;17/03/2020
+150;Bertino Castro;Norte;Amazonas;Manacapuru;Pequena Empresa;28/12/2023
+151;André Galindo;Sul;Paraná;Cascavel;Pessoa Física;05/07/2019
+152;Ney Barbosa;Sudeste;São Paulo;Campinas;Pessoa Física;16/03/2023
+153;Valéria Solís;Nordeste;Pernambuco;Caruaru;Pequena Empresa;10/12/2020
+154;Lucila Barbosa;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;10/06/2020
+155;Gilmar Duarte;Centro-Oeste;Mato Grosso;Sinop;Média Empresa;14/01/2020
+156;Afonso Celso;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;19/01/2022
+157;Levi Cuoco;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;26/12/2022
+158;Edénio Bocaiuva;Centro-Oeste;Goiás;Goiânia;Pessoa Física;25/08/2021
+159;Giuliana Guimarães;Norte;Amazonas;Itacoatiara;Pessoa Física;07/11/2021
+160;Lorenzo Carlos;Nordeste;Bahia;Feira de Santana;Pessoa Física;30/07/2019
+161;Heitor Prieto;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;26/03/2020
+162;Guimar Jobim;Nordeste;Ceará;Sobral;Pequena Empresa;26/10/2020
+163;Melissa Luís;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;21/11/2022
+164;Roseli Guimarães;Nordeste;Pernambuco;Petrolina;Pequena Empresa;27/06/2021
+165;Raimundo Cuoco;Norte;Amazonas;Manacapuru;Pessoa Física;27/03/2019
+166;Dorival Fonseca;Norte;Pará;Belém;Pessoa Física;22/07/2021
+167;Itamar Franco;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;29/12/2023
+168;Fátima Guimarães;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;05/03/2021
+169;Genaro Cuoco;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;02/05/2022
+170;Sheila Luís;Nordeste;Pernambuco;Caruaru;Pessoa Física;11/08/2023
+171;Erasmo Seixas;Norte;Amazonas;Parintins;Pessoa Física;26/06/2022
+172;Bilac Marquezine;Norte;Amazonas;Coari;Pessoa Física;18/09/2023
+173;Alejandro Ruiz;Nordeste;Ceará;Fortaleza;Pessoa Física;24/08/2023
+174;Castor Bocaiuva;Nordeste;Pernambuco;Recife;Pessoa Física;24/03/2021
+175;Angélica Bandeira;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;15/03/2021
+176;Moises Morais;Sul;Paraná;Londrina;Pequena Empresa;10/12/2019
+177;Hermes Valença;Sul;Paraná;Londrina;Pessoa Física;10/06/2023
+178;Ângela Gonzaga;Sudeste;Minas Gerais;Belo Horizonte;Pessoa Física;21/07/2023
+179;Jonas Galindo;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;02/11/2023
+180;Marcio Bayly;Norte;Amazonas;Coari;Pessoa Física;09/03/2021
+181;Tobias Barroso;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;01/08/2020
+182;Ariane Viana;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;21/01/2019
+183;Jussara Freire;Norte;Pará;Castanhal;Pessoa Física;26/08/2021
+184;Gildo Kubitschek;Sul;Paraná;Curitiba;Pequena Empresa;13/08/2020
+185;Henriqueta Barbosa;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;13/07/2020
+186;Erótides Morais;Sul;Paraná;Ponta Grossa;Pequena Empresa;28/05/2021
+187;Ederaldo Dumont;Norte;Pará;Santarém;Pessoa Física;08/08/2022
+188;Quintino Bocaiuva;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;01/11/2019
+189;Marcio Bayly;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;16/11/2020
+190;Janice Gil;Nordeste;Bahia;Salvador;Pequena Empresa;23/03/2021
+191;Karoline Morais;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;21/07/2023
+192;Cândida Pillar;Nordeste;Ceará;Caucaia;Média Empresa;10/11/2023
+193;Pancrácio Morais;Sudeste;Minas Gerais;Betim;Média Empresa;05/09/2022
+194;Rosimeire Luís;Norte;Pará;Castanhal;Pequena Empresa;17/10/2019
+195;Maurício Lobato;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;25/06/2019
+196;Franciele Morais;Sudeste;Minas Gerais;Betim;Grande Empresa;10/10/2023
+197;Homero Lobato;Nordeste;Bahia;Juazeiro;Pequena Empresa;10/09/2021
+198;Eden Morais;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;16/06/2023
+199;Minerva Fonseca;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;25/07/2021
+200;Dionísio Valderrama;Nordeste;Ceará;Juazeiro do Norte;Pequena Empresa;26/11/2019
+201;Olimpio Barbosa;Norte;Pará;Marabá;Pessoa Física;26/07/2021
+202;Auta Cavalcanti;Sul;Paraná;Curitiba;Pequena Empresa;01/07/2021
+203;Libânio Franco;Norte;Pará;Marabá;Pessoa Física;08/05/2021
+204;Arlindo Salgado;Nordeste;Bahia;Salvador;Pessoa Física;17/11/2021
+205;Lídia Kubitschek;Nordeste;Pernambuco;Jaboatão dos Guararapes;Média Empresa;24/06/2023
+206;Gesiel Luís;Norte;Amazonas;Manacapuru;Pessoa Física;20/09/2019
+207;Yago Barbosa;Sudeste;Rio de Janeiro;Duque de Caxias;Pequena Empresa;04/10/2019
+208;Ivanir Guimarães;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;07/04/2023
+209;Jovelina Lobato;Norte;Amazonas;Coari;Pequena Empresa;17/04/2020
+210;Salete Caymmi;Sudeste;São Paulo;Campinas;Pessoa Física;14/09/2021
+211;Felipe Nascimento;Norte;Amazonas;Manacapuru;Pequena Empresa;19/09/2023
+212;Igor Goya;Sul;Paraná;Maringá;Pessoa Física;05/09/2022
+213;Fabiano Porto;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;24/12/2020
+214;João Batista Melo;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;16/12/2022
+215;Ingrid Caymmi;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;23/10/2019
+216;Luzia Carlos;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;16/02/2022
+217;Gumersindo Meireles;Nordeste;Ceará;Maracanaú;Pequena Empresa;01/02/2021
+218;Angélica Bandeira;Centro-Oeste;Goiás;Luziânia;Pessoa Física;10/07/2020
+219;Valentina Rojas;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;25/02/2019
+220;Lilian Cruz;Nordeste;Bahia;Juazeiro;Pequena Empresa;01/08/2020
+221;Donizete Oliveira;Nordeste;Ceará;Sobral;Pessoa Física;17/05/2022
+222;Percival Leme;Centro-Oeste;Mato Grosso;Várzea Grande;Média Empresa;10/07/2022
+223;Jucineide Dumont;Sul;Paraná;Curitiba;Pequena Empresa;10/04/2023
+224;Gentil Duarte;Sudeste;Minas Gerais;Betim;Média Empresa;27/12/2023
+225;Sérgio Guimarães;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;10/07/2022
+226;Yara Jobim;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;21/01/2022
+227;Mira Franco;Norte;Pará;Belém;Pessoa Física;16/02/2021
+228;Gilce Gil;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;01/12/2020
+229;Josué Duarte;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;10/08/2022
+230;Bianchi Coimbra;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;11/06/2019
+231;Elzira Cruz;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;03/02/2019
+232;Ana Paredes;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;17/02/2021
+233;Rubens Valença;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;22/08/2022
+234;Iasmine Barroso;Nordeste;Bahia;Feira de Santana;Pessoa Física;07/11/2019
+235;Rogério Gil;Centro-Oeste;Goiás;Luziânia;Pessoa Física;22/11/2023
+236;Tibúrcio Meireles;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;04/11/2020
+237;Kenia Abravanel;Norte;Pará;Belém;Pequena Empresa;27/10/2019
+238;Gregório Cruz;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;26/01/2020
+239;Christiano Franco;Sudeste;São Paulo;São José dos Campos;Pessoa Física;14/08/2023
+240;Castor Bocaiuva;Sul;Paraná;Londrina;Pequena Empresa;07/07/2020
+241;Jonatas Jobim;Nordeste;Pernambuco;Recife;Pessoa Física;30/08/2020
+242;Bruno Rangel;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;12/01/2021
+243;Luiz Gonzaga;Norte;Amazonas;Manacapuru;Pessoa Física;01/07/2020
+244;Caio Carvajal;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;10/06/2022
+245;Grazi Massafera;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;05/02/2022
+246;Edgar Meireles;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;08/03/2022
+247;Divina Luís;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;31/08/2020
+248;Geovane Morais;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;24/09/2021
+249;Luísa Abravanel;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;31/08/2021
+250;Juliana Meireles;Sudeste;Minas Gerais;Belo Horizonte;Pessoa Física;27/06/2023
+251;Célio Morais;Centro-Oeste;Mato Grosso;Várzea Grande;Pessoa Física;12/01/2021
+252;Raíssa Gil;Norte;Pará;Marabá;Pequena Empresa;01/01/2022
+253;Virgílio Cruz;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;09/02/2019
+254;Calixto Teles;Sul;Paraná;Ponta Grossa;Pessoa Física;20/03/2019
+255;Clóvis Furtado;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;16/01/2022
+256;Nicolás Valenzuela;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;04/12/2021
+257;Iná Luís;Sudeste;São Paulo;São Paulo;Pessoa Física;16/11/2020
+258;Audalio Ceni;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;10/06/2020
+259;Guaraci Bocaiuva;Centro-Oeste;Mato Grosso;Rondonópolis;Média Empresa;13/10/2020
+260;Leonardo Castro;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;07/10/2021
+261;Evandro Carlos;Centro-Oeste;Goiás;Goiânia;Pessoa Física;19/05/2020
+262;Gleyce Cuoco;Sul;Paraná;Maringá;Pequena Empresa;07/03/2020
+263;Glauco Sarmento;Sudeste;Minas Gerais;Betim;Pessoa Física;13/04/2022
+264;Simon Franco;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;12/07/2020
+265;Bonifácio Maraísa;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;28/05/2023
+266;Tarcísio Fonseca;Norte;Amazonas;Parintins;Pequena Empresa;20/07/2023
+267;Benício Dornelles;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;22/10/2021
+268;Cinira Bocaiuva;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;28/05/2022
+269;Lizete Melo;Norte;Amazonas;Parintins;Pessoa Física;23/10/2023
+270;Eulália Abravanel;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;18/03/2021
+271;Renan Sabina;Nordeste;Bahia;Feira de Santana;Pequena Empresa;24/03/2023
+272;Domingos Melo;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;13/10/2023
+273;Cibele Kubitschek;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;03/02/2023
+274;Franklin Meireles;Centro-Oeste;Mato Grosso;Várzea Grande;Pessoa Física;03/02/2022
+275;Libânio Franco;Sul;Paraná;Curitiba;Média Empresa;09/02/2021
+276;Leonardo Castro;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;25/03/2023
+277;Joaquín Torres;Nordeste;Bahia;Camaçari;Pequena Empresa;03/09/2020
+278;Jocelem Franco;Norte;Amazonas;Coari;Média Empresa;26/03/2019
+279;Péricles Fonseca;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;13/02/2022
+280;Flávio Lobato;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;29/07/2020
+281;Luz Caymmi;Sul;Paraná;Londrina;Pessoa Física;04/08/2021
+282;Raduan Nassar;Sudeste;São Paulo;São José dos Campos;Pessoa Física;14/09/2022
+283;Estela Jobim;Centro-Oeste;Mato Grosso;Rondonópolis;Média Empresa;07/06/2021
+284;Izabel Oliveira;Sul;Paraná;Londrina;Pequena Empresa;28/11/2021
+285;Priscila Dumont;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;20/01/2019
+286;Luz Caymmi;Nordeste;Pernambuco;Olinda;Pessoa Física;17/09/2019
+287;Quental Meireles;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;27/12/2020
+288;Sebastián Martínez;Sudeste;Rio de Janeiro;Duque de Caxias;Pequena Empresa;03/02/2019
+289;Alanis Morais;Norte;Amazonas;Itacoatiara;Pessoa Física;20/09/2020
+290;Fausto Lugão;Norte;Amazonas;Manaus;Pessoa Física;11/06/2022
+291;Erótides Morais;Nordeste;Bahia;Feira de Santana;Pequena Empresa;09/01/2020
+292;Raduan Nassar;Nordeste;Ceará;Fortaleza;Pequena Empresa;08/11/2023
+293;Bianca Comparato;Sudeste;São Paulo;Sorocaba;Pessoa Física;30/07/2020
+294;Otávia Mesquita;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;15/12/2021
+295;Fausto Granjeiro;Nordeste;Ceará;Sobral;Pessoa Física;02/10/2019
+296;Ruy Melo;Norte;Amazonas;Itacoatiara;Média Empresa;14/08/2023
+297;Valéria Jobim;Nordeste;Ceará;Fortaleza;Pessoa Física;24/02/2023
+298;Valéria Jobim;Centro-Oeste;Mato Grosso;Cuiabá;Pequena Empresa;16/11/2021
+299;Ricardo Santos;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;21/12/2020
+300;Ligia Rosa;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;02/04/2020
+301;Lorival Cuoco;Nordeste;Pernambuco;Petrolina;Pessoa Física;22/04/2021
+302;Gerson Jobim;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;29/05/2021
+303;Hermes Valença;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;26/09/2020
+304;Ernane Duarte;Norte;Amazonas;Itacoatiara;Pessoa Física;04/02/2023
+305;Pedro Melo;Norte;Amazonas;Coari;Pessoa Física;28/06/2020
+306;Ari Rebouças;Norte;Pará;Marabá;Pequena Empresa;24/03/2019
+307;Renan Amaral;Centro-Oeste;Goiás;Luziânia;Média Empresa;29/04/2023
+308;Claudionor Caymmi;Norte;Amazonas;Itacoatiara;Pessoa Física;13/11/2020
+309;Moises Morais;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;07/07/2021
+310;Gilberto Cintra;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;16/11/2021
+311;Renata Vasconcellos;Nordeste;Pernambuco;Olinda;Pequena Empresa;01/09/2022
+312;Ana Luíza Ximenes;Sudeste;Rio de Janeiro;Niterói;Média Empresa;09/04/2023
+313;Izidoro Cuoco;Nordeste;Ceará;Sobral;Pessoa Física;29/06/2021
+314;Luan Bragança;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;02/09/2023
+315;Higino Carlos;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;05/11/2021
+316;Raul Rosa;Centro-Oeste;Goiás;Goiânia;Pessoa Física;29/03/2020
+317;Darcy Rodríguez;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;04/07/2022
+318;Ari Rebouças;Sudeste;Minas Gerais;Betim;Pessoa Física;04/03/2019
+319;Sebastián Menchaca;Sudeste;São Paulo;São José dos Campos;Pessoa Física;11/07/2023
+320;Murilo Jobim;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;07/09/2023
+321;Franklin Meireles;Sul;Paraná;Londrina;Pessoa Física;20/02/2023
+322;Camilo Costa;Norte;Amazonas;Manaus;Pessoa Física;07/07/2022
+323;Zacarias Luís;Sul;Paraná;Londrina;Pessoa Física;30/05/2023
+324;Matías Pecci;Norte;Amazonas;Manacapuru;Pessoa Física;05/06/2022
+325;Brígida Meneghel;Nordeste;Bahia;Juazeiro;Pessoa Física;19/11/2022
+326;Eliza Oliveira;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;01/11/2020
+327;Ileana Barbosa;Nordeste;Pernambuco;Recife;Pessoa Física;06/08/2022
+328;Yuri Meireles;Sul;Paraná;Curitiba;Pequena Empresa;18/10/2020
+329;Vinícius Rosa;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;20/01/2022
+330;Andressa Bonfim;Norte;Pará;Castanhal;Pessoa Física;30/08/2020
+331;Ionice Fonseca;Centro-Oeste;Goiás;Luziânia;Grande Empresa;06/08/2022
+332;Hildo Gil;Sudeste;Rio de Janeiro;Niterói;Pequena Empresa;16/11/2023
+333;Cleiton Fonseca;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;17/03/2019
+334;Sílvia Cuoco;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;11/11/2023
+335;Urbano Santos;Centro-Oeste;Mato Grosso;Rondonópolis;Média Empresa;19/03/2019
+336;Odilon Lobato;Centro-Oeste;Goiás;Aparecida de Goiânia;Média Empresa;14/01/2019
+337;Dário Melo;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;18/09/2020
+338;Pompeu Barbosa;Nordeste;Ceará;Sobral;Pessoa Física;09/03/2022
+339;Edivaldo Duarte;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;10/02/2020
+340;Carolina Kubitschek;Sul;Paraná;Cascavel;Pessoa Física;21/04/2023
+341;Érick Caymmi;Norte;Pará;Marabá;Pessoa Física;28/03/2019
+342;Dagoberto Kubitschek;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pequena Empresa;03/10/2023
+343;Iracema Franco;Nordeste;Ceará;Caucaia;Pequena Empresa;21/06/2023
+344;Vital Brazil;Norte;Pará;Belém;Pessoa Física;05/05/2022
+345;Mayara Bocaiuva;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;05/09/2023
+346;Cássio Rosa;Nordeste;Bahia;Salvador;Pessoa Física;07/05/2023
+347;André Babenco;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;23/06/2019
+348;Ilan Cruz;Nordeste;Bahia;Camaçari;Pequena Empresa;11/02/2019
+349;Glauco Sarmento;Nordeste;Bahia;Salvador;Pessoa Física;24/05/2019
+350;Jadir Bocaiuva;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;20/12/2023
+351;Albano Escobar;Nordeste;Ceará;Sobral;Pessoa Física;04/10/2021
+352;Xico Sá;Norte;Pará;Marabá;Pessoa Física;10/10/2021
+353;Elba Valença;Nordeste;Ceará;Maracanaú;Pessoa Física;15/07/2023
+354;Iara Valença;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;27/09/2023
+355;Ângela Gonzaga;Norte;Amazonas;Coari;Pessoa Física;29/07/2019
+356;Genaro Cuoco;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;14/11/2020
+357;José Maria Oliveira;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;27/09/2021
+358;Paolla Oliveira;Centro-Oeste;Goiás;Luziânia;Pessoa Física;14/04/2023
+359;Quintino Bocaiuva;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;02/07/2020
+360;Anderson Guedes;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;05/07/2023
+361;Homero Lobato;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;20/05/2019
+362;Rogério Ceni;Sul;Paraná;Cascavel;Pessoa Física;18/09/2019
+363;Fidélis Gil;Nordeste;Ceará;Juazeiro do Norte;Pequena Empresa;06/09/2020
+364;Heitor Carlos;Sul;Paraná;Curitiba;Pessoa Física;31/12/2020
+365;Plácido Lobato;Norte;Pará;Belém;Pequena Empresa;12/01/2021
+366;Tainá Oliveira;Sudeste;São Paulo;Santos;Pessoa Física;09/03/2023
+367;Otto Rebouças;Sudeste;Rio de Janeiro;Rio de Janeiro;Pequena Empresa;02/01/2020
+368;Cleide Cuoco;Norte;Amazonas;Manacapuru;Pessoa Física;11/04/2021
+369;Samuel Franco;Sudeste;São Paulo;São Paulo;Pessoa Física;24/01/2023
+370;Monir Barbosa;Sul;Paraná;Curitiba;Pessoa Física;22/01/2022
+371;Maisa Dumont;Sudeste;Minas Gerais;Contagem;Pessoa Física;12/02/2022
+372;Kenia Abravanel;Nordeste;Bahia;Juazeiro;Pequena Empresa;07/05/2023
+373;Maxsuel Guedes;Nordeste;Bahia;Salvador;Pessoa Física;30/11/2021
+374;Franklin Meireles;Centro-Oeste;Mato Grosso;Tangará da Serra;Média Empresa;03/04/2021
+375;Ivaldo Rosa;Centro-Oeste;Mato Grosso;Sinop;Pequena Empresa;13/06/2020
+376;Iara Valença;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;12/08/2022
+377;Keila Jobim;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;21/12/2023
+378;Bernardo Kermes;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;11/02/2022
+379;Dante Abravanel;Nordeste;Bahia;Camaçari;Pessoa Física;16/10/2019
+380;Juliana Meireles;Sul;Paraná;Maringá;Pequena Empresa;06/05/2020
+381;Agustín Paredes;Centro-Oeste;Goiás;Goiânia;Pessoa Física;14/09/2020
+382;Felícia Luís;Sul;Paraná;Cascavel;Grande Empresa;12/04/2022
+383;Helder Cuoco;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;06/08/2021
+384;Quézia Abravanel;Nordeste;Bahia;Camaçari;Pessoa Física;17/04/2020
+385;Gledson Oliveira;Norte;Pará;Santarém;Pessoa Física;05/11/2021
+386;Zilda Melo;Norte;Amazonas;Coari;Pequena Empresa;24/05/2023
+387;Deivid Siqueira;Sudeste;Minas Gerais;Contagem;Pequena Empresa;12/05/2023
+388;Nely Rosa;Sudeste;Minas Gerais;Belo Horizonte;Pequena Empresa;16/02/2020
+389;Kerginaldo Valença;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;18/02/2021
+390;Clóvis Furtado;Sul;Paraná;Cascavel;Pequena Empresa;20/06/2020
+391;Pacífica Lobato;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;05/09/2023
+392;Zoraide Cuoco;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;29/12/2021
+393;Horácio Muniz;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;16/03/2019
+394;Aldenir Sales;Sul;Paraná;Ponta Grossa;Pequena Empresa;02/03/2019
+395;Batista Espinosa;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;04/07/2022
+396;Katia Barbosa;Sul;Paraná;Ponta Grossa;Pessoa Física;19/11/2023
+397;Facundo Saramago;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;02/05/2023
+398;Joaquim Carlos;Centro-Oeste;Goiás;Luziânia;Pessoa Física;24/02/2022
+399;Valter Gil;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;03/12/2022
+400;Igor Rezende;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;18/12/2022
+401;Patrício Viana;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;15/12/2023
+402;Alexia Marinho;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;23/09/2019
+403;Caio Martins;Norte;Amazonas;Parintins;Pessoa Física;26/04/2020
+404;Valter Gil;Nordeste;Pernambuco;Olinda;Pequena Empresa;03/07/2021
+405;Castor Bocaiuva;Norte;Pará;Castanhal;Pessoa Física;01/12/2023
+406;Berto Sá;Nordeste;Bahia;Camaçari;Pessoa Física;27/02/2021
+407;Yuri Toro;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;20/09/2019
+408;Valdir Espinosa;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;09/04/2020
+409;Divaldo Meireles;Sudeste;São Paulo;Campinas;Pequena Empresa;19/06/2022
+410;Rachel Barroso;Norte;Amazonas;Parintins;Pequena Empresa;30/04/2021
+411;Lorena Caymmi;Norte;Pará;Marabá;Pessoa Física;29/11/2019
+412;Rodolfo Carlos;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;04/10/2020
+413;Elinaldo Guimarães;Sudeste;São Paulo;Campinas;Média Empresa;11/05/2019
+414;Taís Araújo;Nordeste;Bahia;Camaçari;Pequena Empresa;16/02/2023
+415;Dinah Rosa;Nordeste;Ceará;Fortaleza;Pessoa Física;03/08/2020
+416;Georgete Rosa;Norte;Pará;Belém;Pessoa Física;17/10/2021
+417;Valter Gil;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;11/01/2020
+418;Lamartine Duarte;Norte;Amazonas;Itacoatiara;Pequena Empresa;11/09/2022
+419;Nelson Rodrigues;Sudeste;Minas Gerais;Juiz de Fora;Pequena Empresa;31/05/2021
+420;Ismael Melo;Sudeste;São Paulo;Sorocaba;Pessoa Física;02/08/2020
+421;Evangelina Cuoco;Nordeste;Pernambuco;Petrolina;Pequena Empresa;13/09/2023
+422;Marcélia Melo;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;05/03/2020
+423;Edilberto Barroso;Sul;Paraná;Maringá;Pessoa Física;22/07/2023
+424;Antônia Duarte;Nordeste;Pernambuco;Petrolina;Pessoa Física;20/06/2022
+425;Yuri Toro;Sul;Paraná;Maringá;Pessoa Física;14/10/2019
+426;Estevão Norões;Norte;Amazonas;Manaus;Pequena Empresa;28/07/2023
+427;Stanley Dumont;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;22/10/2021
+428;Plínio Rosa;Sudeste;Rio de Janeiro;Niterói;Pequena Empresa;04/06/2020
+429;Icaro Carlos;Norte;Amazonas;Itacoatiara;Pessoa Física;09/06/2020
+430;Otoniel Bezerra;Nordeste;Pernambuco;Caruaru;Pessoa Física;17/10/2020
+431;Elinaldo Guimarães;Nordeste;Ceará;Maracanaú;Pessoa Física;29/12/2021
+432;Leandro Armani;Nordeste;Pernambuco;Petrolina;Pequena Empresa;23/10/2019
+433;Isadora Abravanel;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;18/01/2019
+434;Welington Camargo;Nordeste;Pernambuco;Recife;Pequena Empresa;27/12/2022
+435;Emanuelle Araújo;Sudeste;São Paulo;São José dos Campos;Pessoa Física;29/01/2020
+436;Ubiratã Fonseca;Centro-Oeste;Goiás;Luziânia;Pessoa Física;27/02/2019
+437;Quincas Borba;Centro-Oeste;Mato Grosso;Várzea Grande;Pessoa Física;20/03/2023
+438;Marinho Meireles;Norte;Pará;Marabá;Pessoa Física;29/01/2020
+439;Eder Paiva;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;14/08/2021
+440;Carminha Gil;Sudeste;Minas Gerais;Betim;Pessoa Física;04/03/2019
+441;Rafaela Oliveira;Nordeste;Ceará;Sobral;Pessoa Física;24/06/2019
+442;Dolores Valença;Norte;Pará;Ananindeua;Pessoa Física;06/11/2021
+443;Bruno Comparato;Nordeste;Pernambuco;Recife;Pessoa Física;06/05/2020
+444;Doraci Carlos;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;22/06/2019
+445;Santiago López;Sul;Paraná;Londrina;Pessoa Física;18/11/2022
+446;Edi Abravanel;Sul;Paraná;Maringá;Pequena Empresa;18/01/2020
+447;Arlindo Salgado;Norte;Amazonas;Itacoatiara;Pessoa Física;18/02/2020
+448;Blanca Pires;Sudeste;Minas Gerais;Betim;Pessoa Física;28/05/2019
+449;Osvaldo Carlos;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;23/04/2021
+450;Jonas Dumont;Sudeste;Rio de Janeiro;Niterói;Pequena Empresa;20/12/2022
+451;Miguel Caymmi;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;21/08/2021
+452;Floriano Rosa;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;23/09/2020
+453;Dario Oliveira;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;20/06/2022
+454;Michele Oliveira;Nordeste;Ceará;Caucaia;Pequena Empresa;24/11/2020
+455;Mara Valença;Nordeste;Pernambuco;Petrolina;Pessoa Física;09/03/2020
+456;Gleide Caymmi;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;11/06/2022
+457;Valeska Meireles;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;22/03/2020
+458;Gildásio Franco;Centro-Oeste;Goiás;Luziânia;Média Empresa;25/04/2020
+459;Gil Caymmi;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;09/05/2021
+460;Jamir Barroso;Sudeste;São Paulo;Campinas;Pequena Empresa;01/11/2023
+461;Mateo García;Nordeste;Ceará;Fortaleza;Pequena Empresa;20/06/2019
+462;Tatiane Duarte;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;06/01/2022
+463;Raduan Nassar;Norte;Amazonas;Parintins;Pequena Empresa;07/06/2021
+464;Caritina Valença;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;08/02/2019
+465;Floriano Rosa;Sul;Paraná;Maringá;Pessoa Física;05/06/2021
+466;Juliana Meireles;Nordeste;Ceará;Maracanaú;Pessoa Física;29/07/2019
+467;Joice Bocaiuva;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;01/06/2019
+468;Dora Caymmi;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;01/01/2022
+469;Cristina Oliveira;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;05/02/2019
+470;Pablo Duarte;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;14/12/2023
+471;Irene Cruz;Nordeste;Bahia;Salvador;Pessoa Física;14/10/2023
+472;Gessy Abravanel;Sudeste;Minas Gerais;Betim;Pessoa Física;24/12/2023
+473;Reginaldo Rossi;Centro-Oeste;Goiás;Goiânia;Pessoa Física;15/12/2022
+474;Deivid Eco;Sudeste;São Paulo;Campinas;Pessoa Física;10/08/2020
+475;Zezé Polessa;Nordeste;Pernambuco;Petrolina;Pessoa Física;10/06/2022
+476;Liz Valença;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;12/02/2022
+477;Ismael Correa;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;25/09/2021
+478;Caldas Guedes;Norte;Pará;Santarém;Pessoa Física;12/03/2020
+479;Carolina Kubitschek;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;12/10/2023
+480;Geraldo Barbosa;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;20/07/2019
+481;Breno Peixoto;Sudeste;São Paulo;Ribeirão Preto;Pequena Empresa;21/02/2021
+482;Tainá Oliveira;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;04/07/2022
+483;Silas Melo;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;29/07/2020
+484;Yoná Magalhães;Norte;Amazonas;Parintins;Pessoa Física;27/06/2023
+485;Tiago Gil;Sudeste;Minas Gerais;Belo Horizonte;Pessoa Física;29/11/2021
+486;Rose Jobim;Sul;Paraná;Maringá;Pessoa Física;25/07/2020
+487;Izidoro Cuoco;Norte;Pará;Marabá;Pequena Empresa;23/12/2022
+488;Rubens Valença;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;22/09/2020
+489;Dalva Rosa;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;19/08/2020
+490;William Bonner;Norte;Pará;Belém;Pequena Empresa;31/12/2022
+491;Zico Coimbra;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;03/05/2019
+492;Luzinete Cuoco;Norte;Pará;Ananindeua;Média Empresa;15/04/2022
+493;Silvio Santos;Norte;Pará;Santarém;Pessoa Física;24/12/2021
+494;Ieda Franco;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;30/09/2020
+495;Américo Paranhos;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;12/05/2020
+496;João Batista Melo;Sudeste;São Paulo;São Paulo;Pessoa Física;14/06/2021
+497;Edinaldo Carlos;Norte;Pará;Castanhal;Pessoa Física;27/11/2023
+498;Basílio Santos;Norte;Amazonas;Parintins;Pessoa Física;06/12/2020
+499;Osias Melo;Sudeste;São Paulo;Campinas;Pessoa Física;31/12/2020
+500;Polyana Bocaiuva;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pequena Empresa;23/09/2021
+501;Balbino Sampaio;Sudeste;Rio de Janeiro;Rio de Janeiro;Pequena Empresa;01/08/2020
+502;Caio Martins;Norte;Amazonas;Manaus;Pessoa Física;28/06/2023
+503;Salete Caymmi;Nordeste;Ceará;Maracanaú;Média Empresa;01/12/2019
+504;Ivete Luís;Nordeste;Ceará;Maracanaú;Pessoa Física;17/09/2023
+505;Marcelino Oliveira;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;10/07/2021
+506;Suely Meireles;Nordeste;Ceará;Maracanaú;Pessoa Física;25/12/2022
+507;Nair Abravanel;Sul;Paraná;Londrina;Pequena Empresa;08/10/2021
+508;Hermes Valença;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;28/01/2020
+509;Welington Camargo;Nordeste;Bahia;Salvador;Pessoa Física;13/06/2020
+510;Malu Mader;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;02/03/2022
+511;Gilber Carlos;Sul;Rio Grande do Sul;Gravataí;Média Empresa;17/04/2022
+512;Lair Franco;Sudeste;São Paulo;Sorocaba;Pessoa Física;17/12/2023
+513;Ícaro Meireles;Norte;Amazonas;Parintins;Pessoa Física;31/05/2021
+514;Susana Abravanel;Sul;Paraná;Ponta Grossa;Média Empresa;30/08/2023
+515;Erinaldo Gil;Sudeste;Minas Gerais;Betim;Pequena Empresa;15/05/2022
+516;Andreson Gusmão;Nordeste;Bahia;Juazeiro;Pessoa Física;14/03/2019
+517;Breno Castro;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;21/11/2020
+518;Isoldino Carlos;Norte;Pará;Santarém;Pessoa Física;01/03/2022
+519;Expedito Vilar;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;17/09/2022
+520;Eulália Abravanel;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;24/12/2023
+521;Célio Morais;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;26/06/2020
+522;Daniela Navas;Sudeste;São Paulo;Sorocaba;Pessoa Física;27/10/2019
+523;Lucinda Jobim;Sul;Paraná;Londrina;Pessoa Física;21/02/2020
+524;Tatiane Duarte;Centro-Oeste;Goiás;Anápolis;Pessoa Física;27/08/2020
+525;Lucas Almeida;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;04/12/2020
+526;Tobias Barroso;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;17/03/2019
+527;Bianchi Coimbra;Sul;Paraná;Londrina;Pessoa Física;13/09/2019
+528;Elias Bulhões;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;11/10/2020
+529;Luciene Bocaiuva;Norte;Pará;Castanhal;Pequena Empresa;30/08/2022
+530;Fernanda Caymmi;Norte;Amazonas;Itacoatiara;Pessoa Física;27/08/2021
+531;Vital Brazil;Norte;Pará;Castanhal;Pequena Empresa;12/09/2022
+532;Fidélis Gil;Sul;Paraná;Ponta Grossa;Pessoa Física;18/03/2019
+533;Julieta Abravanel;Centro-Oeste;Goiás;Anápolis;Pessoa Física;05/04/2022
+534;Nilton Varela;Nordeste;Pernambuco;Caruaru;Pessoa Física;12/10/2020
+535;Dalila Duarte;Sul;Rio Grande do Sul;Gravataí;Pequena Empresa;05/03/2021
+536;Dalton Lobato;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;01/05/2022
+537;Edivaldo Salles;Norte;Pará;Marabá;Pequena Empresa;08/09/2023
+538;Zacarias Mourão;Norte;Amazonas;Parintins;Pessoa Física;22/12/2019
+539;Juventina Fonseca;Nordeste;Ceará;Fortaleza;Pessoa Física;03/11/2021
+540;Eliezer Barbosa;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;06/09/2022
+541;Brício Camargo;Norte;Amazonas;Manacapuru;Pequena Empresa;01/09/2022
+542;Luciano Morais;Norte;Pará;Marabá;Pessoa Física;18/05/2020
+543;Úrsula Kubitschek;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;03/09/2022
+544;Danielle Meireles;Norte;Pará;Santarém;Pessoa Física;23/04/2019
+545;Wanessa Oliveira;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;17/02/2022
+546;Eleonora Franco;Norte;Pará;Belém;Pessoa Física;20/03/2019
+547;Josué Duarte;Norte;Pará;Ananindeua;Pessoa Física;25/04/2022
+548;Vera Gil;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;30/08/2021
+549;Homero Lobato;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;04/08/2021
+550;Fátima Bernardes;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;18/01/2019
+551;Newton Bocaiuva;Norte;Amazonas;Manaus;Pessoa Física;29/12/2022
+552;Jonatas Jobim;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;22/05/2023
+553;Cibele Kubitschek;Nordeste;Pernambuco;Olinda;Pessoa Física;10/04/2021
+554;Cesário Carlos;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;25/08/2019
+555;Miranda Kubitschek;Nordeste;Pernambuco;Caruaru;Pessoa Física;19/04/2021
+556;Mário Quintana;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;30/04/2022
+557;Catulo Jobim;Nordeste;Pernambuco;Recife;Pessoa Física;17/07/2021
+558;Lisandra Guimarães;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;25/01/2023
+559;Henrique Bocaiuva;Norte;Amazonas;Itacoatiara;Pessoa Física;07/05/2023
+560;Marizete Melo;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;31/10/2020
+561;Ana Paula Prado;Nordeste;Ceará;Sobral;Pessoa Física;01/08/2019
+562;Alejandro Ruiz;Norte;Amazonas;Manaus;Pessoa Física;05/03/2019
+563;Edivaldo Duarte;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;21/02/2019
+564;Icaro Carlos;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;08/11/2019
+565;Rafael Carvalho;Sul;Paraná;Curitiba;Pessoa Física;13/02/2019
+566;Estefânia Dumont;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;11/12/2023
+567;Cleide Cuoco;Norte;Amazonas;Itacoatiara;Pequena Empresa;11/01/2021
+568;Tiago Barreto;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;01/10/2021
+569;Eliane Lobato;Norte;Pará;Santarém;Pessoa Física;25/02/2020
+570;Elen Carlos;Sul;Paraná;Curitiba;Pessoa Física;11/10/2020
+571;Albano Escobar;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;23/04/2021
+572;Fernando Garcia;Sudeste;Minas Gerais;Juiz de Fora;Pequena Empresa;05/09/2019
+573;Cinira Bocaiuva;Centro-Oeste;Goiás;Luziânia;Pessoa Física;24/03/2019
+574;Carina Barros;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;19/06/2023
+575;Rosângela Barbosa;Nordeste;Bahia;Juazeiro;Pessoa Física;14/08/2022
+576;Lito Luís;Nordeste;Bahia;Salvador;Média Empresa;05/02/2019
+577;Jenifer Jobim;Norte;Pará;Belém;Pessoa Física;20/07/2019
+578;Edinardo Cuoco;Sul;Paraná;Curitiba;Pessoa Física;08/12/2023
+579;Margarete Lobato;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;08/04/2021
+580;Mário Quintana;Norte;Pará;Belém;Pequena Empresa;14/04/2019
+581;Nestor Cruz;Sudeste;Minas Gerais;Betim;Pessoa Física;11/07/2021
+582;Glória Pires;Centro-Oeste;Goiás;Anápolis;Pessoa Física;20/04/2019
+583;Maurício Maurity;Sudeste;Minas Gerais;Contagem;Pequena Empresa;04/09/2019
+584;Benício Dornelles;Norte;Amazonas;Manaus;Pessoa Física;20/01/2021
+585;Gabriela Barroso;Norte;Amazonas;Manacapuru;Pequena Empresa;03/08/2021
+586;Fagner Dumont;Nordeste;Pernambuco;Recife;Pessoa Física;02/02/2019
+587;Raul Rosa;Sul;Rio Grande do Sul;Caxias do Sul;Pequena Empresa;03/09/2019
+588;Fausto Lugão;Centro-Oeste;Mato Grosso;Cuiabá;Pequena Empresa;10/02/2023
+589;Ilma Jobim;Sul;Paraná;Ponta Grossa;Pessoa Física;17/01/2021
+590;Boris Oliveira;Norte;Pará;Belém;Pessoa Física;16/01/2020
+591;Hugo Moraes;Norte;Pará;Castanhal;Pequena Empresa;30/10/2019
+592;Alfeu Cintra;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;08/10/2020
+593;Ciro Dumont;Sul;Paraná;Londrina;Pessoa Física;30/12/2021
+594;Joaquim Carlos;Sul;Rio Grande do Sul;Santa Maria;Média Empresa;25/06/2021
+595;Giuliana Guimarães;Norte;Pará;Ananindeua;Pequena Empresa;11/05/2020
+596;Rogério Gil;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;12/05/2023
+597;Cândido Mulholland;Norte;Pará;Marabá;Pequena Empresa;05/02/2023
+598;Félix Melo;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;07/01/2023
+599;Bertoldo Gomes;Sul;Rio Grande do Sul;Pelotas;Média Empresa;07/07/2022
+600;Eurico Valença;Nordeste;Pernambuco;Petrolina;Pessoa Física;03/01/2020
+601;Ismael Arias;Nordeste;Bahia;Salvador;Pequena Empresa;28/04/2020
+602;Edivaldo Gouveia;Nordeste;Ceará;Caucaia;Pequena Empresa;21/10/2019
+603;Roberto Melo;Sul;Paraná;Cascavel;Pequena Empresa;24/02/2022
+604;Humberto Guimarães;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;13/01/2019
+605;Samuel Valdés;Nordeste;Bahia;Camaçari;Pessoa Física;08/06/2022
+606;Rocha Caymmi;Norte;Pará;Castanhal;Pequena Empresa;20/05/2019
+607;Fátima Bernardes;Norte;Pará;Castanhal;Pessoa Física;04/01/2019
+608;Teodoro Sampaio;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;26/03/2023
+609;Úrsula Corberó;Sul;Rio Grande do Sul;Pelotas;Pequena Empresa;23/05/2019
+610;Narciso Oliveira;Norte;Pará;Santarém;Pessoa Física;03/06/2022
+611;Polyana Bocaiuva;Sul;Paraná;Cascavel;Pequena Empresa;05/05/2022
+612;Fátima Bernardes;Nordeste;Bahia;Salvador;Pequena Empresa;09/08/2021
+613;Gilson Rosa;Sul;Rio Grande do Sul;Gravataí;Média Empresa;22/12/2021
+614;Victor Hugo;Nordeste;Pernambuco;Recife;Pessoa Física;22/02/2021
+615;Frank Guimarães;Sudeste;São Paulo;Sorocaba;Pequena Empresa;22/06/2020
+616;Edivaldo Duarte;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;28/12/2019
+617;Lanilda Rosa;Norte;Pará;Belém;Pequena Empresa;13/01/2020
+618;Ângelo Quintana;Nordeste;Pernambuco;Olinda;Pessoa Física;12/11/2023
+619;Sabrina Sato;Sudeste;São Paulo;Campinas;Pessoa Física;15/04/2022
+620;Katia Barbosa;Norte;Pará;Marabá;Pequena Empresa;24/06/2020
+621;Tarsila Franco;Nordeste;Bahia;Camaçari;Pessoa Física;21/02/2022
+622;Franco Jobim;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;10/11/2019
+623;Odinei Rosa;Nordeste;Pernambuco;Recife;Pessoa Física;05/07/2021
+624;Lino Dumont;Norte;Pará;Belém;Pequena Empresa;25/10/2023
+625;Dalton Lobato;Nordeste;Pernambuco;Petrolina;Pessoa Física;08/11/2020
+626;Leonardo Abravanel;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;23/04/2020
+627;Anacleto Muniz;Sul;Paraná;Curitiba;Pequena Empresa;12/09/2021
+628;Amaro Siqueira;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;21/03/2022
+629;Elmano Gil;Sudeste;São Paulo;Santos;Pessoa Física;23/10/2023
+630;Átila Mayer;Norte;Pará;Castanhal;Pequena Empresa;13/02/2021
+631;Carisio Celso;Nordeste;Pernambuco;Caruaru;Pessoa Física;24/04/2020
+632;Ulisses Franco;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;03/09/2021
+633;Joci Duarte;Centro-Oeste;Mato Grosso;Rondonópolis;Pequena Empresa;03/10/2020
+634;Mimosa Gil;Sul;Rio Grande do Sul;Gravataí;Pequena Empresa;16/11/2020
+635;Wilson Lobato;Norte;Amazonas;Itacoatiara;Pequena Empresa;29/11/2022
+636;Valéria Solís;Nordeste;Ceará;Caucaia;Pessoa Física;22/02/2023
+637;Nara Melo;Sul;Paraná;Ponta Grossa;Pessoa Física;27/11/2021
+638;Ivã Cruz;Norte;Amazonas;Coari;Pessoa Física;27/03/2019
+639;Marcílio Gil;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;28/12/2019
+640;Pedro Melo;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;10/07/2022
+641;Castor Bocaiuva;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;21/09/2020
+642;Emiliano Zapata;Sudeste;São Paulo;São Paulo;Pessoa Física;24/10/2019
+643;Lia Gil;Sul;Paraná;Curitiba;Pequena Empresa;25/12/2021
+644;Maurício Maurity;Norte;Pará;Ananindeua;Pequena Empresa;24/04/2023
+645;Paulo Freire;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;08/12/2021
+646;Hudson Dumont;Sul;Paraná;Curitiba;Pessoa Física;27/11/2021
+647;Ederson Jobim;Norte;Pará;Castanhal;Pessoa Física;25/04/2022
+648;Tomás Melo;Norte;Amazonas;Parintins;Pessoa Física;20/09/2020
+649;Clovis Rosa;Sudeste;São Paulo;Campinas;Pessoa Física;09/10/2023
+650;Iasmine Barroso;Centro-Oeste;Goiás;Rio Verde;Grande Empresa;22/05/2020
+651;Irani Lobato;Norte;Amazonas;Manacapuru;Pessoa Física;18/02/2023
+652;Silvio Santos;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;21/08/2020
+654;Ciro Dumont;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;08/10/2022
+655;Isadora Abravanel;Sudeste;Minas Gerais;Belo Horizonte;Pequena Empresa;05/09/2020
+656;Hermógenes Oliveira;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;27/03/2020
+657;Andreson Gusmão;Sudeste;Rio de Janeiro;Niterói;Pequena Empresa;22/12/2020
+658;Elimar Dumont;Norte;Amazonas;Parintins;Pessoa Física;08/02/2022
+659;Jardel Coimbra;Sudeste;Minas Gerais;Belo Horizonte;Pessoa Física;05/11/2020
+660;Abelardo Fontes;Sul;Paraná;Curitiba;Pessoa Física;01/04/2021
+661;Pantaleão Barbosa;Norte;Amazonas;Manaus;Pequena Empresa;26/04/2021
+662;Ibsen Caymmi;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;02/04/2021
+663;Arthur Ríos;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;06/12/2019
+664;Bispo Michaelichen;Sudeste;São Paulo;Sorocaba;Pessoa Física;03/10/2020
+665;Myrian Guimarães;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;24/02/2021
+666;Katia Barbosa;Nordeste;Ceará;Fortaleza;Pessoa Física;24/08/2019
+667;Marcílio Gil;Nordeste;Ceará;Caucaia;Pessoa Física;17/01/2023
+668;Dimas Lobato;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;25/02/2020
+669;Grayce Lobato;Nordeste;Ceará;Fortaleza;Pessoa Física;09/03/2021
+670;Clóvis Santana;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;12/08/2023
+671;Xavier de Castro;Nordeste;Bahia;Juazeiro;Pequena Empresa;22/05/2021
+672;Ezilda Rosa;Norte;Amazonas;Manacapuru;Pequena Empresa;23/01/2021
+673;Manuela Abravanel;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;10/07/2023
+674;Ubirajara Gil;Sudeste;São Paulo;São José dos Campos;Pessoa Física;20/01/2019
+675;Alfeu Villa;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;11/02/2023
+676;Franco Jobim;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;01/10/2020
+677;Jéssica Abravanel;Nordeste;Ceará;Sobral;Média Empresa;25/08/2021
+678;Gaspar Oliveira;Norte;Amazonas;Parintins;Pequena Empresa;17/02/2022
+679;Alana Vasconcelos;Nordeste;Pernambuco;Caruaru;Média Empresa;11/01/2019
+680;Messias Lacerda;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;18/04/2020
+681;Lino Dumont;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;19/06/2020
+682;Edgard Luís;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;09/11/2023
+683;Marcílio Gil;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pequena Empresa;01/06/2023
+684;Luíza Barroso;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pequena Empresa;18/12/2019
+685;Gilberto Gil;Norte;Pará;Castanhal;Pessoa Física;29/05/2019
+686;Mariana Costa;Nordeste;Pernambuco;Recife;Pequena Empresa;17/07/2021
+687;Edi Abravanel;Nordeste;Pernambuco;Caruaru;Pessoa Física;26/04/2021
+688;Wagner Meireles;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;01/02/2022
+689;Alfeu Caldas;Nordeste;Bahia;Feira de Santana;Pessoa Física;04/08/2020
+690;Weliton Cuoco;Norte;Pará;Belém;Pessoa Física;02/07/2022
+691;Castelo Morais;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;13/05/2021
+692;Paulo Freire;Sul;Paraná;Ponta Grossa;Pessoa Física;14/01/2020
+693;Luana Duarte;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pequena Empresa;08/07/2023
+694;Marciana Cuoco;Nordeste;Ceará;Maracanaú;Pessoa Física;05/03/2021
+695;Armando Nassar;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;20/03/2021
+696;Edi Abravanel;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;30/05/2020
+697;Valdo Barbosa;Nordeste;Ceará;Sobral;Pessoa Física;23/09/2020
+698;Cassiano Lobato;Nordeste;Ceará;Maracanaú;Média Empresa;27/02/2019
+699;Narciso Oliveira;Nordeste;Ceará;Fortaleza;Pequena Empresa;03/12/2022
+700;Fabiana Cruz;Norte;Amazonas;Parintins;Pequena Empresa;29/08/2020
+701;Zezé Polessa;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;11/09/2021
+702;Claudinei Barroso;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;19/04/2022
+703;Irani Lobato;Centro-Oeste;Mato Grosso;Várzea Grande;Média Empresa;15/08/2021
+704;Pedro Melo;Centro-Oeste;Mato Grosso;Sinop;Pequena Empresa;17/09/2023
+705;Eric Melo;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;09/09/2022
+706;Fátima Bernardes;Norte;Amazonas;Coari;Pequena Empresa;04/04/2020
+707;Kalil Franco;Sudeste;São Paulo;São Paulo;Pessoa Física;01/05/2020
+708;Moacir Rosa;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;20/01/2020
+709;Danilo Maestri;Nordeste;Ceará;Juazeiro do Norte;Pequena Empresa;16/05/2022
+710;Magali Rosa;Centro-Oeste;Goiás;Luziânia;Pequena Empresa;18/02/2019
+711;Marta Cuoco;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;19/12/2023
+712;Elcio Barroso;Nordeste;Pernambuco;Recife;Pequena Empresa;24/12/2020
+713;Cristino Caymmi;Nordeste;Pernambuco;Olinda;Pequena Empresa;07/10/2021
+714;Yuri Toro;Norte;Amazonas;Itacoatiara;Pequena Empresa;03/03/2021
+715;Messias Lacerda;Centro-Oeste;Goiás;Anápolis;Média Empresa;19/01/2023
+716;Juscelino Kubitschek;Centro-Oeste;Mato Grosso;Sinop;Pequena Empresa;15/11/2019
+717;Julia Guimarães;Norte;Pará;Castanhal;Pessoa Física;23/10/2020
+718;Rosa Morais;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pequena Empresa;02/06/2023
+719;Vítor Bocaiuva;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;06/05/2021
+720;Tomaz Oliveira;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;30/10/2021
+721;Marizete Melo;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;03/06/2022
+722;Ismael Correa;Nordeste;Bahia;Juazeiro;Pessoa Física;20/08/2021
+723;Juscelino Kubitschek;Centro-Oeste;Goiás;Anápolis;Pessoa Física;19/11/2023
+724;Walter Avancini;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;19/05/2023
+725;Aldemir Bezerra;Nordeste;Ceará;Sobral;Pequena Empresa;21/12/2020
+726;Vitor Fernandes;Norte;Amazonas;Coari;Pequena Empresa;02/12/2019
+727;Dante Abravanel;Sul;Paraná;Curitiba;Pessoa Física;20/04/2022
+728;Abner Cavalcante;Sudeste;São Paulo;São Paulo;Pessoa Física;19/01/2021
+729;Juliano Luís;Norte;Amazonas;Itacoatiara;Pessoa Física;25/12/2023
+730;Luciano Zabludovsky;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;11/04/2021
+731;Audalio Ceni;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;22/05/2022
+732;Auta Cavalcanti;Norte;Amazonas;Coari;Pessoa Física;03/11/2020
+733;Dagmar Franco;Nordeste;Ceará;Fortaleza;Pessoa Física;05/12/2020
+734;Jurandir Oliveira;Norte;Pará;Castanhal;Pequena Empresa;17/05/2022
+735;Bianchi Coimbra;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;25/07/2021
+736;Wagner Queiroz;Nordeste;Ceará;Maracanaú;Pessoa Física;15/11/2021
+737;Emiliano Zapata;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;17/05/2020
+738;Wagner Queiroz;Sudeste;São Paulo;São Paulo;Pessoa Física;10/01/2022
+739;Irma Dumont;Norte;Pará;Castanhal;Pequena Empresa;21/02/2020
+740;Douglas Quiroga;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;12/11/2021
+741;Juliano Rivera;Norte;Pará;Belém;Pessoa Física;23/04/2022
+742;Tomaz Oliveira;Sul;Paraná;Londrina;Pequena Empresa;22/12/2020
+743;Alyson Lins;Norte;Pará;Belém;Pessoa Física;22/07/2020
+744;Bino Pitanga;Sul;Paraná;Cascavel;Pequena Empresa;21/12/2023
+745;Elza Rosa;Sul;Paraná;Maringá;Pessoa Física;05/12/2020
+746;Caritina Valença;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;21/08/2022
+747;Érico Carlos;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;21/07/2023
+748;Sócrates Rosa;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;27/06/2022
+749;Zita Carlos;Centro-Oeste;Goiás;Luziânia;Pessoa Física;03/01/2023
+750;Gofredo Fonseca;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;12/09/2021
+751;Clotilde Bocaiuva;Norte;Pará;Ananindeua;Pessoa Física;03/02/2019
+752;Jamilly Valença;Norte;Amazonas;Manaus;Pessoa Física;20/01/2021
+753;José Maria Oliveira;Norte;Amazonas;Itacoatiara;Pessoa Física;12/12/2022
+754;Cássio Dalí;Nordeste;Pernambuco;Caruaru;Pessoa Física;11/01/2020
+755;Belarmino Filho;Nordeste;Ceará;Sobral;Média Empresa;25/11/2023
+756;Magali Rosa;Norte;Pará;Santarém;Pessoa Física;13/06/2021
+757;Francisco Cuoco;Sul;Paraná;Curitiba;Pequena Empresa;30/07/2023
+758;Macário Kubitschek;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;21/01/2022
+759;Hipólito Kubitschek;Nordeste;Pernambuco;Petrolina;Pessoa Física;24/06/2019
+760;Raimunda Carlos;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pequena Empresa;14/09/2020
+761;Keila Jobim;Nordeste;Pernambuco;Caruaru;Pessoa Física;23/05/2020
+762;Yasmin Brunet;Sudeste;São Paulo;Campinas;Pequena Empresa;01/02/2023
+763;Alvimar Dantas;Sudeste;São Paulo;São Paulo;Pequena Empresa;14/11/2020
+764;Liz Valença;Nordeste;Ceará;Caucaia;Pessoa Física;05/08/2022
+765;Diana Fonseca;Norte;Pará;Castanhal;Pequena Empresa;05/01/2019
+766;Eleanor Caymmi;Sudeste;São Paulo;São Paulo;Pequena Empresa;24/04/2020
+767;José Maria Oliveira;Sudeste;Minas Gerais;Belo Horizonte;Pequena Empresa;01/09/2019
+768;Sergio Borges;Nordeste;Pernambuco;Olinda;Pessoa Física;07/08/2021
+769;Sebastián Martínez;Nordeste;Pernambuco;Caruaru;Pessoa Física;15/03/2022
+770;Valter Ximenes;Norte;Amazonas;Manaus;Pequena Empresa;11/01/2020
+771;Augusto Pompeu;Centro-Oeste;Goiás;Anápolis;Média Empresa;17/11/2020
+772;Iris Barbosa;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;31/03/2021
+773;Marizete Melo;Centro-Oeste;Goiás;Rio Verde;Pessoa Física;13/01/2023
+774;Caibi Araújo;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;26/05/2023
+775;Berenice Soriano;Nordeste;Ceará;Sobral;Pequena Empresa;14/03/2023
+776;Jadir Bocaiuva;Centro-Oeste;Goiás;Luziânia;Pessoa Física;18/05/2019
+777;Péricles Fonseca;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;28/12/2020
+778;Mayara Bocaiuva;Nordeste;Ceará;Fortaleza;Pessoa Física;20/12/2020
+779;Iago Luís;Norte;Pará;Castanhal;Pessoa Física;06/07/2021
+780;Jucara Morais;Sudeste;Minas Gerais;Contagem;Pessoa Física;26/04/2020
+781;Humberto Guimarães;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;09/08/2022
+782;Felisberto Barroso;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pequena Empresa;11/04/2019
+783;Melanie Guimarães;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;04/05/2021
+784;Caldas Guedes;Centro-Oeste;Goiás;Luziânia;Pessoa Física;06/09/2022
+785;Gaston Caymmi;Centro-Oeste;Goiás;Luziânia;Pessoa Física;20/09/2019
+786;Edson Bocaiuva;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;01/05/2023
+787;Lanilda Rosa;Sul;Paraná;Ponta Grossa;Pessoa Física;20/05/2019
+788;Alceu Valença;Norte;Amazonas;Manaus;Pequena Empresa;13/02/2021
+789;Otávio Botero;Norte;Amazonas;Manaus;Pessoa Física;10/05/2020
+790;Eliseu Barroso;Centro-Oeste;Mato Grosso;Cuiabá;Pequena Empresa;15/04/2022
+791;Jader Cruz;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;11/07/2022
+792;Marcílio Gil;Norte;Amazonas;Itacoatiara;Pessoa Física;28/04/2023
+793;Nazaré Fonseca;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;02/12/2021
+794;Luma Melo;Centro-Oeste;Goiás;Luziânia;Pessoa Física;04/07/2022
+795;Cleusa Lobato;Sul;Rio Grande do Sul;Gravataí;Pessoa Física;31/08/2019
+796;Edir Kubitschek;Sudeste;Minas Gerais;Betim;Pessoa Física;19/04/2019
+797;Auta Cavalcanti;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;19/06/2021
+798;Ulysses Guimarães;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;22/07/2019
+799;Joaquín Portugal;Sudeste;Rio de Janeiro;Rio de Janeiro;Média Empresa;29/07/2023
+800;Douglas Assis;Nordeste;Bahia;Vitória da Conquista;Pessoa Física;16/04/2019
+801;Macário Kubitschek;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;28/10/2021
+802;Sara Lobato;Sudeste;Minas Gerais;Betim;Pessoa Física;19/02/2019
+803;Deolinda Caymmi;Nordeste;Ceará;Fortaleza;Pessoa Física;15/10/2020
+804;Lúcio Guimarães;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;06/04/2020
+805;Dinah Rosa;Sudeste;São Paulo;Campinas;Pessoa Física;24/03/2019
+806;Azarias Meira;Norte;Amazonas;Coari;Pequena Empresa;10/05/2022
+807;Irani Duarte;Centro-Oeste;Goiás;Goiânia;Pessoa Física;12/07/2019
+808;Érica Oliveira;Norte;Amazonas;Itacoatiara;Pequena Empresa;11/12/2020
+809;Jucineide Dumont;Nordeste;Ceará;Caucaia;Pessoa Física;20/04/2022
+810;Bertha Simonal;Norte;Pará;Ananindeua;Pessoa Física;25/07/2020
+811;Josenildo Franco;Nordeste;Ceará;Fortaleza;Pessoa Física;29/05/2019
+812;Willian Duarte;Nordeste;Pernambuco;Petrolina;Pequena Empresa;20/06/2023
+813;Lidiane Duarte;Centro-Oeste;Goiás;Rio Verde;Pequena Empresa;11/03/2021
+814;Valter Gil;Sul;Paraná;Ponta Grossa;Pessoa Física;02/08/2020
+815;Frederico Luís;Nordeste;Pernambuco;Caruaru;Pessoa Física;19/02/2023
+816;Wagner Meireles;Sul;Paraná;Londrina;Pequena Empresa;01/02/2023
+817;Zenon Barroso;Nordeste;Pernambuco;Caruaru;Pessoa Física;05/07/2020
+818;Marcus Duarte;Sudeste;Minas Gerais;Juiz de Fora;Pessoa Física;23/01/2023
+819;Otávia Mesquita;Norte;Pará;Ananindeua;Pessoa Física;29/06/2023
+820;Jair Meireles;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;09/02/2023
+821;Adriano Beltrão;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;01/09/2023
+822;Vagner Lobato;Sudeste;São Paulo;Campinas;Pessoa Física;27/05/2020
+823;Hermes da Fonseca;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;04/07/2019
+824;Dionne Barbosa;Sul;Paraná;Cascavel;Pessoa Física;23/06/2023
+825;Eduarda Dumont;Sudeste;Rio de Janeiro;Rio de Janeiro;Pessoa Física;18/11/2019
+826;Helton Lobato;Centro-Oeste;Goiás;Aparecida de Goiânia;Pequena Empresa;02/11/2021
+827;Julia Guimarães;Nordeste;Pernambuco;Olinda;Pessoa Física;29/01/2022
+828;Onofre Meireles;Centro-Oeste;Mato Grosso;Tangará da Serra;Pequena Empresa;22/01/2021
+829;Ileana Barbosa;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;24/10/2020
+830;Damiana Bocaiuva;Norte;Amazonas;Coari;Pessoa Física;19/02/2021
+831;Auxiliadora Malafaia;Sudeste;São Paulo;São José dos Campos;Pessoa Física;20/08/2019
+832;Blênio Valverde;Nordeste;Ceará;Sobral;Pessoa Física;21/07/2021
+833;Marlene Oliveira;Nordeste;Bahia;Vitória da Conquista;Pequena Empresa;17/09/2019
+834;Alisson Frota;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;23/08/2021
+835;Mário Luís;Norte;Pará;Castanhal;Pessoa Física;11/10/2021
+836;Goulart Franco;Nordeste;Ceará;Caucaia;Pessoa Física;24/09/2020
+837;André Babenco;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;18/10/2019
+838;Perla Gil;Norte;Amazonas;Coari;Pessoa Física;05/04/2023
+839;Luan Bragança;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;03/11/2023
+840;Serena Jobim;Norte;Pará;Ananindeua;Pequena Empresa;19/04/2023
+841;Yasmin Guimarães;Nordeste;Bahia;Salvador;Média Empresa;27/11/2021
+842;Francisca Barbosa;Nordeste;Pernambuco;Olinda;Pessoa Física;25/06/2021
+843;Fátima Bernardes;Sul;Rio Grande do Sul;Pelotas;Pessoa Física;16/01/2023
+844;Cíntia Barbosa;Centro-Oeste;Goiás;Anápolis;Pequena Empresa;07/03/2022
+845;Fabiano Porto;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;26/08/2019
+846;George Borborema;Nordeste;Pernambuco;Olinda;Pessoa Física;10/02/2020
+847;Andréia Salgado;Centro-Oeste;Goiás;Goiânia;Pessoa Física;17/10/2022
+848;Pascoal Maia;Nordeste;Pernambuco;Olinda;Pessoa Física;15/06/2021
+849;Ida Cuoco;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;02/10/2021
+850;Emília Barbosa;Sul;Paraná;Maringá;Pequena Empresa;05/11/2020
+851;Tarsila Franco;Nordeste;Bahia;Juazeiro;Pessoa Física;23/02/2021
+852;Julieta Blanco;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;29/08/2020
+853;Vitor Meireles;Norte;Amazonas;Coari;Pequena Empresa;10/01/2023
+854;Jack Fonseca;Norte;Pará;Belém;Pessoa Física;10/06/2023
+855;Lycia Gil;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;31/05/2020
+856;Beatriz Luna;Sudeste;São Paulo;Ribeirão Preto;Média Empresa;16/12/2023
+857;Jenifer Jobim;Sul;Paraná;Cascavel;Pequena Empresa;30/04/2023
+858;Aluísio Veloso;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;25/11/2021
+859;Toni Caymmi;Sul;Paraná;Cascavel;Pequena Empresa;08/07/2021
+860;Rui Barbosa;Norte;Pará;Belém;Pessoa Física;13/05/2020
+861;Gilberto Cuoco;Sudeste;Minas Gerais;Juiz de Fora;Pequena Empresa;25/06/2023
+862;Alberto D’Avila;Sul;Rio Grande do Sul;Caxias do Sul;Média Empresa;15/06/2019
+863;Arthur Monteiro;Nordeste;Bahia;Salvador;Pessoa Física;05/11/2021
+864;Newton Duarte;Sul;Rio Grande do Sul;Santa Maria;Pessoa Física;02/06/2022
+865;Eustáquio Melo;Sul;Rio Grande do Sul;Santa Maria;Pequena Empresa;13/09/2021
+866;Jordana Luís;Sul;Paraná;Maringá;Pequena Empresa;03/03/2022
+867;Marcélia Melo;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;15/11/2020
+868;Gleice Melo;Centro-Oeste;Mato Grosso;Várzea Grande;Pequena Empresa;13/02/2020
+869;Luciana Cruz;Sul;Paraná;Maringá;Pequena Empresa;16/12/2022
+870;Nalva Valença;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;05/09/2020
+871;Romildo Kubitschek;Centro-Oeste;Goiás;Goiânia;Pequena Empresa;28/07/2019
+872;Gabriel Derbez;Nordeste;Pernambuco;Jaboatão dos Guararapes;Média Empresa;22/08/2021
+873;Joice Bocaiuva;Norte;Pará;Belém;Pessoa Física;26/04/2023
+874;Rita Abravanel;Nordeste;Ceará;Maracanaú;Pequena Empresa;12/04/2021
+875;Ralph Fonseca;Nordeste;Bahia;Feira de Santana;Pessoa Física;27/08/2023
+876;Noel Rosa;Sudeste;Minas Gerais;Juiz de Fora;Pequena Empresa;23/04/2020
+877;Ezilda Rosa;Nordeste;Bahia;Camaçari;Pequena Empresa;03/01/2021
+878;Juvêncio Gil;Norte;Amazonas;Parintins;Pessoa Física;27/11/2023
+879;Cristiana Barroso;Centro-Oeste;Mato Grosso;Sinop;Pessoa Física;08/09/2019
+880;Davi Yrigoyen;Centro-Oeste;Mato Grosso;Tangará da Serra;Pessoa Física;22/06/2023
+881;Laerte Gil;Norte;Amazonas;Manacapuru;Pequena Empresa;10/02/2020
+882;Icaro Carlos;Sul;Rio Grande do Sul;Porto Alegre;Pequena Empresa;20/12/2020
+883;Mônica Bocaiuva;Nordeste;Pernambuco;Recife;Pessoa Física;16/03/2021
+884;Elsa Lobato;Centro-Oeste;Goiás;Luziânia;Pessoa Física;02/11/2021
+885;Dilma Duarte;Sul;Rio Grande do Sul;Gravataí;Pequena Empresa;04/08/2023
+886;Rose Jobim;Sudeste;Minas Gerais;Betim;Pessoa Física;11/11/2021
+887;Elzira Cruz;Nordeste;Ceará;Sobral;Pessoa Física;27/07/2019
+888;Zilma Oliveira;Sudeste;Rio de Janeiro;Niterói;Pessoa Física;04/04/2023
+889;Olimpio Barbosa;Sudeste;Minas Gerais;Uberlândia;Pequena Empresa;27/05/2023
+890;Melanie Guimarães;Sudeste;São Paulo;Santos;Pessoa Física;24/01/2021
+891;Diego Melo;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;22/09/2020
+892;Clarissa Luís;Nordeste;Ceará;Juazeiro do Norte;Pessoa Física;06/12/2022
+893;Bibiana Moraes;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pessoa Física;16/09/2022
+894;Antero Martin;Norte;Pará;Santarém;Pessoa Física;17/01/2023
+895;Helton Lobato;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;18/10/2019
+896;Karine Rosa;Sudeste;Rio de Janeiro;Nova Iguaçu;Pequena Empresa;15/02/2020
+897;Ferdinand Oliveira;Norte;Amazonas;Itacoatiara;Média Empresa;29/03/2023
+898;Nicole Guimarães;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;05/09/2021
+899;Damiana Bocaiuva;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;06/12/2023
+900;Antero Martin;Nordeste;Bahia;Camaçari;Pessoa Física;13/12/2022
+901;Eduardo Cavalcante;Sudeste;Rio de Janeiro;Duque de Caxias;Pessoa Física;07/10/2019
+902;Joaquín Portugal;Sul;Paraná;Curitiba;Pessoa Física;13/04/2023
+903;Jadir Bocaiuva;Norte;Pará;Castanhal;Pessoa Física;09/08/2023
+904;Uziel Duarte;Nordeste;Bahia;Salvador;Pequena Empresa;12/01/2019
+905;Kelman Meireles;Nordeste;Bahia;Salvador;Pequena Empresa;04/04/2023
+906;Brunno Esteves;Nordeste;Ceará;Juazeiro do Norte;Pequena Empresa;26/06/2020
+907;Graciliano Duarte;Norte;Pará;Castanhal;Pequena Empresa;14/02/2023
+908;Lourenço Fonseca;Nordeste;Bahia;Juazeiro;Pessoa Física;20/10/2022
+909;Libânio Franco;Nordeste;Pernambuco;Caruaru;Pessoa Física;23/04/2021
+910;Paulo Barroso;Sul;Rio Grande do Sul;Porto Alegre;Pessoa Física;09/11/2023
+911;Giovana Bocaiuva;Sul;Paraná;Maringá;Pessoa Física;15/10/2023
+912;Fernando Carlos;Sul;Rio Grande do Sul;Caxias do Sul;Pessoa Física;02/03/2023
+913;Ezequiel Lobato;Sudeste;Rio de Janeiro;Campos dos Goytacazes;Pessoa Física;29/10/2023
+914;Cleber Carlos;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;23/01/2020
+915;Ari Rebouças;Sudeste;Minas Gerais;Betim;Pequena Empresa;01/10/2023
+916;Inês Melo;Sudeste;São Paulo;Ribeirão Preto;Pessoa Física;20/01/2019
+917;Gaetano Melo;Centro-Oeste;Mato Grosso;Rondonópolis;Pessoa Física;09/03/2020
+918;Nina Melo;Nordeste;Pernambuco;Jaboatão dos Guararapes;Pequena Empresa;17/06/2019
+919;Luciano Zabludovsky;Sudeste;Minas Gerais;Juiz de Fora;Pequena Empresa;10/04/2019
+920;Inácio Mariz;Centro-Oeste;Goiás;Aparecida de Goiânia;Pessoa Física;21/09/2021
+921;Diego Kubitschek;Norte;Amazonas;Itacoatiara;Pessoa Física;13/10/2019
+922;Nathalia Dill;Norte;Amazonas;Coari;Pessoa Física;30/04/2022
+923;Cleide Cuoco;Sudeste;Rio de Janeiro;Nova Iguaçu;Pessoa Física;03/08/2022
+924;Gaspar Oliveira;Sudeste;Minas Gerais;Uberlândia;Pessoa Física;24/04/2020
+925;Orlandino Abravanel;Centro-Oeste;Mato Grosso;Várzea Grande;Pessoa Física;07/02/2021
+926;Estêvão Meireles;Nordeste;Bahia;Salvador;Pequena Empresa;22/02/2019
+927;Thais Barbosa;Sudeste;São Paulo;São José dos Campos;Pequena Empresa;10/06/2020
+928;Giácomo Melo;Norte;Amazonas;Parintins;Pessoa Física;15/12/2022
+929;Cássio Linhares;Norte;Amazonas;Coari;Pessoa Física;25/02/2022
+930;Belmiro Moraes;Norte;Amazonas;Manacapuru;Pequena Empresa;10/02/2022
+931;Lidiane Duarte;Sudeste;Minas Gerais;Contagem;Grande Empresa;13/09/2023
+932;Marcelo Machado;Centro-Oeste;Mato Grosso;Cuiabá;Pessoa Física;26/09/2022

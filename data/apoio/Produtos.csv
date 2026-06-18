@@ -1,0 +1,48 @@
+id_produto;nome_produto;marca;categoria;subcategoria;preco_unitario;custo_unitario
+1;MacBook Pro 16 Apple;Apple;Informática;Notebook;24578;17205
+2;MacBook Pro 14 Apple;Apple;Informática;Notebook;14386;10070
+3;MacBook Air M2 Apple;Apple;Informática;Notebook;11510;8057
+4;MacBook Air M1 Apple;Apple;Informática;Notebook;8994;6296
+5;Dell XPS 15;Dell;Informática;Notebook;9947;6963
+6;Dell XPS 13;Dell;Informática;Notebook;12046;8432
+7;Dell Inspiron 15;Dell;Informática;Notebook;3558;2491
+8;Dell Inspiron 14;Dell;Informática;Notebook;3554;2488
+9;Samsung Galaxy Book3 Ultra;Samsung;Informática;Notebook;8250;5775
+10;Samsung Galaxy Book2;Samsung;Informática;Notebook;8302;5811
+11;Monitor Samsung Odyssey G7;Samsung;Monitores;Monitor;6473;3884
+12;Monitor Samsung Smart M8;Samsung;Monitores;Monitor;2161;1297
+13;Monitor Samsung UR550;Samsung;Monitores;Monitor;2426;1456
+14;Monitor Samsung Odyssey G5;Samsung;Monitores;Monitor;4281;2569
+15;Monitor Samsung T350;Samsung;Monitores;Monitor;994;596
+16;Monitor Dell UltraSharp U2723QE;Dell;Monitores;Monitor;1625;975
+17;Monitor Dell P2422H;Dell;Monitores;Monitor;1579;947
+18;Monitor Dell SE2422H;Dell;Monitores;Monitor;1349;809
+19;Cadeira Gamer Razer Iskur;Razer;Escritório;Cadeira;2980;1788
+20;Teclado Razer BlackWidow;Razer;Periféricos;Teclado;732;439
+21;Teclado Razer Ornata V3;Razer;Periféricos;Teclado;375;188
+22;Mouse Razer DeathAdder V2;Razer;Periféricos;Mouse;330;165
+23;Mouse Razer Basilisk Essential;Razer;Periféricos;Mouse;100;50
+24;Headset Razer Kraken;Razer;Periféricos;Headset;257;129
+25;Headset Razer BlackShark V2 X;Razer;Periféricos;Headset;308;154
+26;Teclado Logitech G Pro;Logitech;Periféricos;Teclado;323;162
+27;Teclado Logitech K120;Logitech;Periféricos;Teclado;100;50
+28;Mouse Logitech MX Master 3;Logitech;Periféricos;Mouse;445;223
+29;Mouse Logitech M170;Logitech;Periféricos;Mouse;91;46
+30;Headset Logitech G432;Logitech;Periféricos;Headset;203;102
+31;Headset Logitech H390;Logitech;Periféricos;Headset;356;178
+32;Webcam Logitech C920;Logitech;Periféricos;Webcam;152;76
+33;Webcam Logitech C270;Logitech;Periféricos;Webcam;316;158
+34;SSD Samsung 980 Pro;Samsung;Acessórios;SSD;1197;599
+35;SSD Samsung 970 EVO;Samsung;Acessórios;SSD;738;369
+36;Pendrive Samsung 128GB;Samsung;Acessórios;Pendrive;54;22
+37;Pendrive Samsung 64GB;Samsung;Acessórios;Pendrive;168;67
+38;Carregador Samsung USB-C;Samsung;Acessórios;Carregador;166;66
+39;Mousepad Razer Gigantus;Razer;Periféricos;Mousepad;102;41
+40;Mousepad Logitech G240;Logitech;Periféricos;Mousepad;179;72
+41;Cabo USB-C Samsung;Samsung;Acessórios;Cabo;77;31
+42;Cabo HDMI Samsung;Samsung;Acessórios;Cabo;56;22
+43;Adaptador USB-C Dell;Dell;Acessórios;Outros;156;62
+44;Dock Station Dell;Dell;Acessórios;Dock Station;1039;416
+45;Hub USB-C Samsung;Samsung;Acessórios;Hub;105;42
+46;Fone Bluetooth Samsung Buds2;Samsung;Acessórios;Fone Bluetooth;592;237
+47;Fone Bluetooth Samsung Buds FE;Samsung;Acessórios;Fone Bluetooth;504;202
